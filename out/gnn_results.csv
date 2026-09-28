@@ -1,0 +1,8 @@
+model,chrono_p_at_r70,cv_folds_mean,cv_folds_std,cv_wins_vs_lgb,cv_wins_vs_stack
+gnn,0.8667,0.8697,0.025,2,2
+gnn1,0.8516,0.8557,0.0277,3,1
+mlp,0.8314,0.8475,0.034,1,1
+lgb_base,0.8614,0.8715,0.0371,0,1
+stack_lgbm,0.8667,0.8766,0.0346,4,0
+blend_gnn_lgb,0.8885,0.8824,0.0258,4,4
+blend_gnn_stack,0.8938,0.888,0.0238,4,4
